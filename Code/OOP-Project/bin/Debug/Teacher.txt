@@ -1,0 +1,2 @@
+Name:Address:Phone No:Department:Salary
+Osama:Karachi:03002645262:Computer:30,000

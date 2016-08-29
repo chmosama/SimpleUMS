@@ -1,0 +1,2 @@
+Student ID:Name:Phone:Address:Campus
+1:Osama:03325896369:Karachi:Main
