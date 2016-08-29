@@ -6,5 +6,7 @@ Description :- University Management System have all the basic features which a 
 - Teacher Management
 - Library Management
 - Fees Management<br />
-> Use Code/setup.exe for installation.
+
+> Use Code/setup.exe for installation.<br />
+
 For more information please visit [www.chmosama.com](https://www.chmosama.com/)
