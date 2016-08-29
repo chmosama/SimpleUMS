@@ -9,4 +9,6 @@ Description :- University Management System have all the basic features which a 
 
 > Use Code/setup.exe for installation.<br />
 
+![Setup Screenshot](https://raw.githubusercontent.com/chmosama/SimpleUMS/master/Setup/setup_screenshot.png)
+
 For more information please visit [www.chmosama.com](https://www.chmosama.com/)
