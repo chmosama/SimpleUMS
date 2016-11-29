@@ -7,7 +7,7 @@ Description :- University Management System have all the basic features which a 
 - Library Management
 - Fees Management<br />
 
-> Use Code/setup.exe for installation.<br />
+> Use Setup/setup.exe for installation.<br />
 
 ![Setup Screenshot](https://raw.githubusercontent.com/chmosama/SimpleUMS/master/Setup/setup_screenshot.png)
 
