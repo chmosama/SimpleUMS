@@ -1,6 +1,6 @@
 # SimpleUMS
 **Simple University Management System**<br />
-University Management System is a software application which I developed it on C# with Object-Oriented-Programming.<br />
+University Management System is a software application which I developed it on C#.<br />
 Description :- University Management System have all the basic features which a university will ever want, like :
 - Student Management
 - Teacher Management
